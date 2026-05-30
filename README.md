@@ -8,13 +8,7 @@ A complete end-to-end IoT pipeline: a custom CNN trained on the PlantVillage dat
 B.Tech ECE (Rail Engineering), Gati Shakti Vishwavidyalaya  
 Faculty Mentor: Dr. Sagar
 
-**Team:**
 | Roll No. | Name |
-|----------|------|
-| 23EC005 | Aditya Kumar Jha |
-| 23EC039 | [Nikhil Rathaur](https://github.com/nike14rath) |
-| 23EC040 | [Parth Sidhu](https://github.com/Parth-Sidhu-4) |
-| 23EC046 | [Roshan Gupta](https://github.com/r0shan-git) |
 | 23EC048 | Shashikant Sargam |
 
 ---
