@@ -8,8 +8,8 @@ A complete end-to-end IoT pipeline: a custom CNN trained on the PlantVillage dat
 B.Tech ECE (Rail Engineering), Gati Shakti Vishwavidyalaya  
 Faculty Mentor: Dr. Sagar
 
-| Roll No. | Name |
-| 23EC048 | Shashikant Sargam |
+| Name |
+| Shashikant Sargam |
 
 ---
 
